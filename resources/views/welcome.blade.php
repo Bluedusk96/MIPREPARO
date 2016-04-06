@@ -200,7 +200,7 @@
         </div><!--/.container-->
     </section><!--/#about-->
    
-	<section id="portfolio">
+	 <!--   <section id="portfolio">
 		<div class="container">
 			<div class="center">
 				<div class="col-md-6 col-md-offset-3">
@@ -209,7 +209,9 @@
 					<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</p>
 				</div>
 			</div>
-		</div>
+		</div> 
+		
+		
 	
      <!--    <div class="container">
 			<div class="col-lg-12">		
@@ -362,7 +364,7 @@
 					non cupidatat skateboard dolor brunch.</p>
 				</div>
 				
-				<div class="col-md-4 wow fadeInRight">
+	 		<div class="col-md-4 wow fadeInRight">
 					<h3>Cosmesi Ecobio</h3>
 					<img src="images/portfolio/recent/Cosmesi ecobio p.jpg" alt="">
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut

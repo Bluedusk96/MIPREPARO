@@ -225,7 +225,7 @@ p {
 
 .portfolio-filter > li a {
   background: none repeat scroll 0 0 #FFFFFF;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 400;
   margin-right: 20px;
   text-transform: uppercase;
@@ -467,7 +467,7 @@ a.accordion-toggle  i{
 }
 
 #features {
-	margin-top:-350px;
+	margin-top:0px;
 	padding:180px;
 	text-align:center;
 }
