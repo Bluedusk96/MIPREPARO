@@ -396,7 +396,7 @@
 		
 	
 		<div class="map">
-			<iframe src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Kuningan,+Jakarta+Capital+Region,+Indonesia&amp;aq=3&amp;oq=kuningan+&amp;sll=37.0625,-95.677068&amp;sspn=37.410045,86.572266&amp;ie=UTF8&amp;hq=&amp;hnear=Kuningan&amp;t=m&amp;z=14&amp;ll=-6.238824,106.830177&amp;output=embed">
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2859.2416231432867!2d12.03835621551628!3d44.22268357910597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132b578e2852ac2b%3A0x6f22e05149571318!2sPiazza+Saffi+Aurelio%2C+47121+Forl%C3%AC+FC!5e0!3m2!1sit!2sit!4v1458769053915">
 			</iframe>
 		</div>
 	<section id="contact">
